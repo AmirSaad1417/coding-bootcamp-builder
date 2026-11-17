@@ -1,0 +1,27 @@
+# Environment variables (CRITICAL: NEVER commit secrets!)
+.env
+.env.local
+.env.production
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Temporary logs
+tmp/
+*.log
