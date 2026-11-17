@@ -1,3 +1,13 @@
+---
+title: Coding Bootcamp Builder
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
 # 🚀 Coding Bootcamp Builder
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://coding-bootcamp-builder-we4kusrjhhe6fexuav9fex.streamlit.app/)
